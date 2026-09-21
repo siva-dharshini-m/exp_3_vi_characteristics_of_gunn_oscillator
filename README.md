@@ -77,11 +77,11 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/dbd861bc-aa52-4c5d-b455-e9003956008a" />
 
 ## Calculation
 
-*(Include your own calculation relevant to the experiment.)*
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a6ca8a4-c142-4ca8-b7c6-ffd7a55aceaa" />
 
 ## Precautions
 
@@ -91,4 +91,5 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Conclusion
 
-*(Write your own.)*
+*I–V characteristics of a Gunn diode and the depth of modulation of a PIN diode is successful
+*
